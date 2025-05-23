@@ -35,3 +35,6 @@ Cette application est une To-Do List avancée construite avec **React**, **Tailw
 | Framer Motion    | Animations                        |
 | Font Awesome     | Icônes                            |
 | Vite             | Bundler ultra rapide              |
+
+
+
