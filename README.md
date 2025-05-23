@@ -2,6 +2,7 @@
 
 Cette application est une To-Do List avancée construite avec **React**, **Tailwind CSS**, **Framer Motion** et **Firebase Firestore**.
 
+![Image](https://github.com/user-attachments/assets/efaf8662-34b9-4af4-9a2f-64b08dd3378c)
 ---
 
 ## ⚙️ Fonctionnalités
@@ -17,8 +18,7 @@ Cette application est une To-Do List avancée construite avec **React**, **Tailw
   - **Tâches en cours**
   - **Tâches terminées**
 - 🌗 Support du thème :
-  - Clair / Sombre / Système
-  - Commutation manuelle via un **select**
+  - Sombre / Système
 - ☁️ Données stockées dans **Firebase Firestore**
 - 🎨 Interface moderne et responsive avec **Tailwind CSS** et **Font Awesome**
 - 💥 Animations fluides à la suppression avec **Framer Motion**
