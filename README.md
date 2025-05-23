@@ -1,12 +1,37 @@
-# React + Vite
+# 📝 To-Do List avancée avec React et Firebase
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Cette application est une To-Do List avancée construite avec **React**, **Tailwind CSS**, **Framer Motion** et **Firebase Firestore**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ⚙️ Fonctionnalités
 
-## Expanding the ESLint configuration
+- ✅ Ajouter une tâche avec :
+  - Titre
+  - Description
+  - Date et heure (obligatoirement future)
+  - État (terminée ou en cours)
+- ✏️ Modifier uniquement l’état des tâches **en cours**
+- 🗑️ Supprimer une tâche (avec animation)
+- 📂 Séparation des tâches en deux colonnes :
+  - **Tâches en cours**
+  - **Tâches terminées**
+- 🌗 Support du thème :
+  - Clair / Sombre / Système
+  - Commutation manuelle via un **select**
+- ☁️ Données stockées dans **Firebase Firestore**
+- 🎨 Interface moderne et responsive avec **Tailwind CSS** et **Font Awesome**
+- 💥 Animations fluides à la suppression avec **Framer Motion**
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Technologies utilisées
+
+| Outil            | Rôle                              |
+|------------------|-----------------------------------|
+| React            | Framework Frontend principal      |
+| Tailwind CSS     | Stylisation rapide et responsive  |
+| Firebase         | Backend (Firestore)               |
+| Framer Motion    | Animations                        |
+| Font Awesome     | Icônes                            |
+| Vite             | Bundler ultra rapide              |
