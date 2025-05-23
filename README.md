@@ -2,6 +2,8 @@
 
 Cette application est une To-Do List avancée construite avec **React**, **Tailwind CSS**, **Framer Motion** et **Firebase Firestore**.
 
+![Image](https://github.com/user-attachments/assets/efaf8662-34b9-4af4-9a2f-64b08dd3378c)
+
 ---
 
 ## ⚙️ Fonctionnalités
