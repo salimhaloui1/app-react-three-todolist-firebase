@@ -103,6 +103,20 @@ Erreur liée à node-sass ou autre </br>
 rm -rf node_modules</br>
 npm install
 
+# Pour changer les parametres de la base de donnée : 
+
+merci de chager ces iformations par celle que tu as dan ta base donnée firebas :
+
+const firebaseConfig = {
+  apiKey: "VOTRE_API_KEY",
+  authDomain: "VOTRE_AUTH_DOMAIN",
+  projectId: "VOTRE_PROJECT_ID",
+  storageBucket: "VOTRE_BUCKET",
+  messagingSenderId: "VOTRE_SENDER_ID",
+  appId: "VOTRE_APP_ID",
+};
+
+
 ✅ En résumé rapide :
 
 # 1. Aller dans le dossier
@@ -113,3 +127,5 @@ npm install
 
 # 3. Lancer le projet
 npm run dev     # ou npm start
+
+
