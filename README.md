@@ -105,7 +105,7 @@ npm install
 
 # Pour changer les parametres de la base de donnée : 
 
-merci de chager ces iformations par celle que tu as dan ta base donnée firebas :
+merci de changer ces informations par celle que tu as dans ta base de donnée firebase :
 
 const firebaseConfig = {
   apiKey: "VOTRE_API_KEY",
