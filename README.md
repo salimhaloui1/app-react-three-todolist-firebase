@@ -1,4 +1,4 @@
-# 📝 To-Do List avancée avec React et Fairebase
+# 📝 To-Do List avancée avec React et Firebase
 
 Cette application est une To-Do List avancée construite avec **React**, **Tailwind CSS**, **Framer Motion** et **Firebase Firestore**.
 
